@@ -41,7 +41,7 @@
 # Software Used
 1. Visual studio Code as IDE.
 2. Node Package manager.
-3. Bootstrap Version 4.6., 5.0.0-alpha1.
+3. Bootstrap Version 4.6, 5.0.0-alpha1.
 
 # Members Contributed
 1. Sudarshan lagade - @Sudarshan1422 - sudarshanlagade14022000@gmail.com (front-end page for faculty).
