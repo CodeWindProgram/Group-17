@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# Group 17
+# Problem Statement- Exam Performance Module.
+ 1. @LaukikParakh - laukikparakh0912@gmail.com
+ 
+ 2. @123456nono12345 - shauryapandey@ternaengg.ac.in
+ 
+    • Initially gathered all the resources for our module.
+    
+    • Discussed and designes the interface for all the actors with the help of @Mahendra1452.
+    
+    • Designed the responsive front-end page for students and included all the functions like giving test, accessing graphical report, Students profile.
+    
+    • Students can attempt test in both modes ie online/offline.
+    
+    • For offline mode i created file uploading option where students can upload their written answer direcly.
+    
+    • For online mode i attached a google form link (for reference purpose) where students can directly give online MCQ based test.
+    
+ 3. @Sudarshan1422 - sudarshanlagade14022000@gmail.com
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+    • Initially gathered all the resources for our module.
+    
+    • Designed the Database schema for all the actors.
+    
+    • Created the responsive front-end page for faculty incluing all the access like assigning the test(Online/Offline), Display Graphical report of Individial student, Faculty Profile.
+    
+    • For both online/Offline i Created a page to upload the required documents for the test which redirects to the next page to select the mode of examination (online/offline).
+    
+    
+    
+# Intial Setup 
+1. Node setup
 
-## Available Scripts
+    • Installing and setting up the VSC environment as IDE.
+    
+    • Installation and setup of Node.js environemnt.
+    
+    • Installation of required npm modules.
+    
+    
+# Software Used
+1. Visual studio Code as IDE.
+2. Node Package manager.
+3. Bootstrap Version 4.6., 5.0.0-alpha1.
 
-In the project directory, you can run:
+# Members Contributed
+1. Sudarshan lagade - @Sudarshan1422 - sudarshanlagade14022000@gmail.com (front-end page for faculty).
+2. Shaurya Pandey - @123456nono12345 - shauryapandey@ternaengg.ac.in (front-end page for students).
+    
+    
+     
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+    
+  
+ 
