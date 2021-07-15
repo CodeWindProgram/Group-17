@@ -15,25 +15,25 @@ const Navbar = () => {
 
 
 
-                        <nav className="navbar navbar-expand-lg navbar-light bg-light">
+                        <nav className="navbar navbar-expand-lg navbar-light bg-blue">
                             <div className="container-fluid">
 
-                                <NavLink className="navbar-brand" to="/">Faculty </NavLink>
+                                <NavLink className="navbar-brand" to="/">Students </NavLink>
                                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                     <span class="navbar-toggler-icon"></span>
                                 </button>
                                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                                     <ul className="navbar-nav ml-auto mb-2 mb-lg-0">
                                         <li className="nav-item">
-                                            <NavLink activeClassName="menu_active" className="nav-link active" aria-current="page" to="/">Home</NavLink>
+                                            <NavLink activeClassName="menu_active" className="nav-link active" aria-current="page" to="/Dashboard">Dashboard</NavLink>
                                         </li>
 
                                         <li className="nav-item">
-                                            <NavLink activeClassName="menu_active" className="nav-link active" aria-current="page" to="/About">Assign test</NavLink>
+                                            <NavLink activeClassName="menu_active" className="nav-link active" aria-current="page" to="/Exams">Exams</NavLink>
                                         </li>
 
                                         <li className="nav-item">
-                                            <NavLink activeClassName="menu_active" className="nav-link active" aria-current="page" to="/Service">view report</NavLink>
+                                            <NavLink activeClassName="menu_active" className="nav-link active" aria-current="page" to="/ViewReport">view report</NavLink>
                                         </li>
 
                                        
@@ -49,24 +49,6 @@ const Navbar = () => {
                     </div>
                 </div>
             </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
