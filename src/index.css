@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+* {
+
+ 
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "muli", sans-serif;
+}
+
+.navbar {
+  background-color:rgb(183, 219, 219) !important;
+}
+
+
+.admin{
+  background-color: rgba(165, 172, 179, 0.377) !important;
+ 
+}
+
+
+.result{
+  background-color: rgba(165, 172, 179, 0.377) !important;
+ 
+}
+
+
+
+.test{
+  background-color: rgba(165, 172, 179, 0.377) !important;
+ 
+}
+
+
+
+
+.navbar-brand{
+  font-size: 1.9rem !important;
+  color: #565387  !important;
+}
+
+
+
+
+
