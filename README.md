@@ -1,7 +1,11 @@
 # Group 17
 # Problem Statement- Exam Performance Module.
  1. @LaukikParakh - laukikparakh0912@gmail.com
- 
+    • Initially gathered all the resources for our module.
+    
+    • Discussed the ER diagram and drawn it.
+    
+    • Discussed the Page layout for front end.
  2. @123456nono12345 - shauryapandey@ternaengg.ac.in
  
     • Initially gathered all the resources for our module.
@@ -46,7 +50,7 @@
 # Members Contributed
 1. Sudarshan lagade - @Sudarshan1422 - sudarshanlagade14022000@gmail.com (front-end page for faculty).
 2. Shaurya Pandey - @123456nono12345 - shauryapandey@ternaengg.ac.in (front-end page for students).
-    
+3. Laukik Parakh - @LaukikParakh     - laukikparakh0912@gmail.com (Discussed The design of Frontend Pages).
     
      
 
